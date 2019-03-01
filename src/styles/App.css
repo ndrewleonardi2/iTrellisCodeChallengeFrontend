@@ -1,0 +1,12 @@
+/* Base Application Styles */
+body {
+  
+}
+
+.index {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  height: 100%;
+  padding: 10px;
+}

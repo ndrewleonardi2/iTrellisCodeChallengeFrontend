@@ -1,0 +1,9 @@
+.product-component {
+  border: 1px solid #000;
+  width: 32.9%;
+  height: 12em;
+  text-align: center;
+}
+.product-component > p {
+  font-size: .75em;
+}
